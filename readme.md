@@ -15,11 +15,11 @@
 
 ------------
 
-#### my technologies
+#### my technologies 🧑‍💻
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojonex&theme=2077)
 
 
 ------------
 
-#### my stats
+#### my stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojonex&theme=2077)
